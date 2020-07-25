@@ -76,6 +76,14 @@ Sketch - https://www.sketch.com/ - Click ‘ Try For Free’
          -   Converts Any Mobile Design To Native Applications
 
  - It is a tool to accelerate the app development workflow/process for mobile designers and developers
+ 
+## How Supernova Makes Life Easier?
+
+  - Bring mobile app UIs to life in minutes by converting Sketch and Adobe XD designs into native frontend code for Flutter, iOS, Android
+  and React Native.
+
+  - Allows designers, developers and teams to combine advance support for enterprise teams and a code-design system manager that closes     the gap between design and code  - Kisses All Those Inconsistencies and Inefficiencies Goodbye!
+
 
 
 

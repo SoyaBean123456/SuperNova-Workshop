@@ -86,17 +86,17 @@ Sketch - https://www.sketch.com/ - Click ‘ Try For Free’
   
 ## Benefits Of Supernova.io On How It is Making Life Easier
 
-No more handoffs
+1) No more handoffs
     Production-ready code generated in real-time as you prototype so that your app’s design and code are always in sync. This allows you     to export your final product with the click of a button, eliminating lengthy handoffs entirely.
     No more misplaced pixels
     
     All design elements are backed by native components so that you’re creating more than a hi-fi prototype -- you’re building the actual     UI. (Rest assured everything will end up where it needs to be.)
     
-No more duplicated work
+2) No more duplicated work
 
 Development picks up exactly where design left off rather than coding wireframes, animations, and transitions from scratch. Clean, production-ready, and flexible code for iOS, Android, React Native and Flutter.
 
-No more boring, tedious tasks
+3) No more boring, tedious tasks
 
 In a matter of seconds, the creation of layouts, export of assets, localizations, animations, navigation flows and more are crossed off in Supernova.io’s to-do list.
 

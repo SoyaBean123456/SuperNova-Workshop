@@ -58,9 +58,22 @@ They have a choice between the mobile web version or a specially-created mobile 
 ## Installation
 
 Supernova.io - https://supernova.io/ - Click ‘Try Supernova For Free’
+
 AND
+
 Adobe_XD - https://www.adobe.com/sea/products/xd.html - Click ‘Start For free’ 
+
 OR
+
 Sketch - https://www.sketch.com/ - Click ‘ Try For Free’
+
+## What is Supernova.io
+
+ - World’s First Design To Code Platform
+ - Design Support Tool For Mobile Applications
+         -   Converts Any Mobile Design To Native Applications
+
+ - It is a tool to accelerate the app development workflow/process for mobile designers and developers
+
 
 

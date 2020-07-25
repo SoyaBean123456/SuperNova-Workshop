@@ -30,11 +30,13 @@ They have a choice between the mobile web version or a specially-created mobile 
 
 ● Native 
       Programmed using Swift/Objective C on IOS or using Java/Kotlin on Android devices. 
+      
 ● Hybrid 
       Mix between these two types of mobile applications. 
       Normally based on web programming language, eg: HTML, CSS, Javascript, Dart, React.js
       Built once to be run on Android and iOS. 
       Sometimes very hard to debug
+      
 ● Web Apps / Progressive Web Apps. 
       Web based. Runs in the phone’s browser. 
       Can have native features based on HTML5

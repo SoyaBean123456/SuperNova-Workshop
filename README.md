@@ -1,6 +1,6 @@
 # SuperNova WorkShop
 
-Welcome to <The SuperNova WorkShop> 🥳!
+Welcome to < The SuperNova WorkShop > 🥳!
 
 Here, we will learn about <Introduction To Design Support Sustainability - Design To Code>
  

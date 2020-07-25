@@ -94,11 +94,11 @@ Sketch - https://www.sketch.com/ - Click ‘ Try For Free’
     
 2) No more duplicated work
 
-Development picks up exactly where design left off rather than coding wireframes, animations, and transitions from scratch. Clean, production-ready, and flexible code for iOS, Android, React Native and Flutter.
+    Development picks up exactly where design left off rather than coding wireframes, animations, and transitions from scratch. Clean,       production-ready, and flexible code for iOS, Android, React Native and Flutter.
 
 3) No more boring, tedious tasks
 
-In a matter of seconds, the creation of layouts, export of assets, localizations, animations, navigation flows and more are crossed off in Supernova.io’s to-do list.
+    In a matter of seconds, the creation of layouts, export of assets, localizations, animations, navigation flows and more are crossed       off in Supernova.io’s to-do list.
 
 
 

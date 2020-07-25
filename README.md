@@ -53,6 +53,6 @@ They have a choice between the mobile web version or a specially-created mobile 
 |  | Xamarin |
 
 ## How To Make Mobile App Development Easier?
-![Supernova](https://github.com/SoyaBean123456/SuperNova-Workshop/blob/master/Supernova.jpg/Supernova.PNG?raw=true)
+![Supernova](https://github.com/SoyaBean123456/SuperNova-Workshop/blob/master/Supernova.jpg/?raw=true)
 
 

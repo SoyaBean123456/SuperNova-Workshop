@@ -12,6 +12,10 @@ Without further ado, let's get started!
 
 <br>
 
+## Slides 
+
+https://docs.google.com/presentation/d/1mz6VqRuAzk71DUuiSJC8Yi-QKGk1lU11AWD_VG_Ue3g/edit?usp=sharing
+
 ## Table of content 📄
 
 1. What Are Mobile Apps
